@@ -25,4 +25,4 @@ In this project, I present a straightforward implementation of JSON Web Token (J
 - click on the submit button
 - the dashboard will display a token present message
 - click on the Get Data button to view the data
-- in your browser under console, under applacation, under localstorage, you will see the token
+- in your browser under webtools/developerTools, under applacation, under localstorage, you will see the token
