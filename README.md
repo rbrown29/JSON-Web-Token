@@ -12,7 +12,7 @@ In this project, I present a straightforward implementation of JSON Web Token (J
 - http-status-codes
 - Mongoose
 - JWT
-- Postman
+- Postman/Insomnia
 
 ## Installation
 - Clone the repo: `git clone`
