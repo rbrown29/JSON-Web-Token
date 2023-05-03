@@ -15,7 +15,7 @@ In this project, I present a straightforward implementation of JSON Web Token (J
 - Postman
 
 ## Installation
-- Clone the repo: `git clone
+- Clone the repo: `git clone`
 - Install dependencies: `npm install`
 - Start the server: `npm start`
 - Views in the browser at `http://localhost:3000`
